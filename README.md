@@ -1,16 +1,14 @@
-# Weather Today Completed
+# S.M Tanzim Tuhin (2022302)
+# Syed Alif Ul Alam (2120015)
 
-A new Flutter project.
+When we click on "current location" icon :
+![Screenshot_1702822309](https://github.com/alifjs/Final-Project-Mobile-App/assets/92691751/4992a3b3-8e10-4c24-9a43-bc8c3fbda38d)
 
-## Getting Started
+When we search a specific city :
+![Screenshot_1702821632](https://github.com/alifjs/Final-Project-Mobile-App/assets/92691751/6ec46745-b335-4ee0-a86f-5b715b050e13)
 
-This project is a starting point for a Flutter application.
+Code changes we made :
+![code1](https://github.com/alifjs/Final-Project-Mobile-App/assets/92691751/340f769a-88b6-4dd4-80e5-f3d6e8121683)
 
-A few resources to get you started if this is your first Flutter project:
+![code2](https://github.com/alifjs/Final-Project-Mobile-App/assets/92691751/75ef5760-fe03-4ba6-ac02-4115c42f2f7a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
